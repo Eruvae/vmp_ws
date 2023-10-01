@@ -1,0 +1,50 @@
+[submodule "src/view_motion_planner"]
+	path = src/view_motion_planner
+	url = https://github.com/Eruvae/view_motion_planner.git
+[submodule "src/roi_viewpoint_planner"]
+	path = src/roi_viewpoint_planner
+	url = https://github.com/Eruvae/roi_viewpoint_planner.git
+	branch = separate_motion_manager
+[submodule "src/rvp_evaluation"]
+	path = src/rvp_evaluation
+	url = https://github.com/Eruvae/rvp_evaluation.git
+[submodule "src/trolley_simulation"]
+	path = src/trolley_simulation
+	url = https://github.com/Eruvae/trolley_simulation.git
+[submodule "src/rqt_roi_viewpoint_planner"]
+	path = src/rqt_roi_viewpoint_planner
+	url = https://github.com/Eruvae/rqt_roi_viewpoint_planner.git
+	branch = trolley_move_options
+[submodule "src/roi_viewpoint_planner_msgs"]
+	path = src/roi_viewpoint_planner_msgs
+	url = https://github.com/Eruvae/roi_viewpoint_planner_msgs.git
+[submodule "src/octomap_vpp"]
+	path = src/octomap_vpp
+	url = https://github.com/Eruvae/octomap_vpp.git
+[submodule "src/octomap_vpp_rviz_plugin"]
+	path = src/octomap_vpp_rviz_plugin
+	url = https://github.com/Eruvae/octomap_vpp_rviz_plugin.git
+[submodule "src/pointcloud_roi"]
+	path = src/pointcloud_roi
+	url = https://github.com/Eruvae/pointcloud_roi.git
+[submodule "src/pointcloud_roi_msgs"]
+	path = src/pointcloud_roi_msgs
+	url = https://github.com/Eruvae/pointcloud_roi_msgs.git
+[submodule "src/ur_with_cam_gazebo"]
+	path = src/ur_with_cam_gazebo
+	url = https://github.com/Eruvae/ur_with_cam_gazebo.git
+[submodule "src/capsicum_superellipsoid_detector"]
+	path = src/capsicum_superellipsoid_detector
+	url = https://github.com/salihmarangoz/capsicum_superellipsoid_detector.git
+[submodule "voxblox_ws"]
+	path = voxblox_ws
+	url = https://github.com/Eruvae/voxblox_ws.git
+[submodule "src/yolact_ros_msgs"]
+	path = src/yolact_ros_msgs
+	url = https://github.com/Eruvae/yolact_ros_msgs.git
+[submodule "src/superellipsoid_msgs"]
+	path = src/superellipsoid_msgs
+	url = https://github.com/salihmarangoz/superellipsoid_msgs.git
+[submodule "src/universal_robot"]
+	path = src/universal_robot
+	url = https://github.com/ros-industrial/universal_robot.git

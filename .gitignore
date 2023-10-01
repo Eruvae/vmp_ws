@@ -1,0 +1,10 @@
+.catkin_tools/
+.vscode/
+build_release/
+devel_release/
+logs_release/
+build_debug/
+devel_debug/
+logs_debug/
+*.pcd
+*.ot
